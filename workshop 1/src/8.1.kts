@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
     ///
     for (i in 1 downTo -19 step 2)
-        sum = sum -8
+        sum = sum -2
     println()
     for (i in 1 downTo -19 step 2)
         print("$i  ")
